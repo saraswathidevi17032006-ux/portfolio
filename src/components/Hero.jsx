@@ -225,7 +225,7 @@ CERTIFICATIONS
               <div className="hero-ring-inner" />
             </div>
             <img
-              src="/assets/WhatsApp Image 2026-09-03 at 10.30.44 AM.jpeg"
+              src="/assets/profile.jpeg"
               alt="Devi P — B.Tech IT Student"
               className="hero-avatar"
               onError={(e) => {
