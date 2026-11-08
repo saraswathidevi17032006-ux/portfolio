@@ -21,7 +21,7 @@ const About = () => {
   useScrollReveal('reveal-right');
 
   const stats = [
-    { value: '8.8',  label: 'CGPA' },
+    { value: '7.62',  label: 'CGPA' },
     { value: '3+',   label: 'Projects Built' },
     { value: '200+', label: 'Problems Solved' },
     { value: '2+',   label: 'Certifications' },
@@ -32,7 +32,7 @@ const About = () => {
       degree: 'B.Tech in Information Technology',
       school: 'College of Engineering & Technology (Anna University)',
       year: '2024 – 2028',
-      score: 'CGPA: 8.8 / 10.0',
+      score: 'CGPA: 7.62 / 10.0',
       num: '1',
     },
     {

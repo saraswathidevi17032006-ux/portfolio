@@ -5,15 +5,15 @@ import './Projects.css';
 const PROJECTS = [
   {
     id: 1,
-    title: 'DevPulse AI — Portfolio Analytics',
+    title: 'TO-DO List',
     description:
-      'A full-featured developer portfolio platform with real-time code analytics, project showcase, and visitor insights dashboard built with modern stack.',
-    image: '/assets/devpulse.png',
+      'A sleek, responsive task management application featuring user authentication, real-time progress tracking, priority management, and persistent storage.',
+    image: '/assets/TO-DO List.png',
     fallback:
-      'https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=800&q=80',
-    tech: ['React.js', 'Node.js', 'MongoDB', 'Express'],
-    github: 'https://github.com/devi-p-dev',
-    demo: 'https://example.com',
+      'https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?auto=format&fit=crop&w=800&q=80',
+    tech: ['React.js', 'CSS3', 'JavaScript', 'Vite'],
+    github: 'https://github.com/saraswathidevi17032006-ux/Todo_list.git',
+    demo: 'https://todo-list-brown-kappa-uowj58lyff.vercel.app/',
     featured: true,
   },
   {
@@ -25,7 +25,7 @@ const PROJECTS = [
     fallback:
       'https://images.unsplash.com/photo-1618401471353-b98aedd04e11?auto=format&fit=crop&w=800&q=80',
     tech: ['React.js', 'SQL', 'Express.js', 'CSS3'],
-    github: 'https://github.com/devi-p-dev',
+    github: 'https://github.com/saraswathidevi17032006-ux',
     demo: 'https://example.com',
     featured: false,
   },
@@ -38,7 +38,7 @@ const PROJECTS = [
     fallback:
       'https://images.unsplash.com/photo-1472851294608-062f824d29cc?auto=format&fit=crop&w=800&q=80',
     tech: ['React.js', 'JavaScript', 'CSS3', 'Context API'],
-    github: 'https://github.com/devi-p-dev',
+    github: 'https://github.com/saraswathidevi17032006-ux',
     demo: 'https://example.com',
     featured: false,
   },

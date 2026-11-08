@@ -33,7 +33,7 @@ const Footer = () => {
         {/* Social Icons */}
         <div className="footer-socials" aria-label="Social links">
           <a
-            href="https://github.com/devi-p-dev"
+            href="https://github.com/saraswathidevi17032006-ux"
             target="_blank"
             rel="noopener noreferrer"
             className="footer-social-btn github"

@@ -61,7 +61,7 @@ const Hero = () => {
 📧 Email    : devip.it@gmail.com
 📞 Phone    : +91 98765 43210
 📍 Location : Tamil Nadu, India
-🔗 GitHub   : github.com/devi-p-dev
+🔗 GitHub   : github.com/saraswathidevi17032006-ux
 🔗 LinkedIn : linkedin.com/in/devi-p-it
 
 OBJECTIVE
@@ -72,8 +72,8 @@ full-stack web applications with React, Node.js, and databases.
 
 EDUCATION
 ---------
-• B.Tech Information Technology       CGPA: 8.8 / 10.0
-  College of Engineering & Technology (Anna University), 2022–2026
+• B.Tech Information Technology       CGPA: 7.62 / 10.0
+  College of Engineering & Technology (Anna University), 2024–2028
 
 • Higher Secondary Certificate (HSC)   94.5%
   State Board Higher Secondary School, 2020–2022
@@ -90,9 +90,9 @@ Tools     : Git, GitHub, VS Code, Postman
 
 PROJECTS
 --------
-1. DevPulse AI — Portfolio Analytics Platform
-   Tech: React.js, Node.js, MongoDB
-   Developer portfolio platform with live analytics dashboard.
+1. TO-DO List — Task Management Application
+   Tech: React.js, CSS3, JavaScript, Vite
+   Interactive task manager with authentication and progress tracking.
 
 2. CloudDesk — Kanban Task Manager
    Tech: React.js, SQL, Express.js
@@ -179,7 +179,7 @@ CERTIFICATIONS
 
           <div className="hero-socials">
             <a
-              href="https://github.com/devi-p-dev"
+              href="https://github.com/saraswathidevi17032006-ux"
               target="_blank"
               rel="noopener noreferrer"
               className="hero-social-btn"
@@ -225,7 +225,7 @@ CERTIFICATIONS
               <div className="hero-ring-inner" />
             </div>
             <img
-              src="/assets/profile.jpeg"
+              src="/assets/WhatsApp Image 2026-09-03 at 10.30.44 AM.jpeg"
               alt="Devi P — B.Tech IT Student"
               className="hero-avatar"
               onError={(e) => {
@@ -237,7 +237,7 @@ CERTIFICATIONS
             {/* Floating stat pills */}
             <div className="hero-stats" aria-label="Quick stats">
               <div className="hero-stat-pill">
-                <span>8.8</span> CGPA
+                <span>7.62</span> CGPA
               </div>
               <div className="hero-stat-pill">
                 <span>3+</span> Projects

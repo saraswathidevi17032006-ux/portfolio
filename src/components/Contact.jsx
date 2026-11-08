@@ -60,8 +60,8 @@ const Contact = () => {
     {
       icon: <Github size={18} />,
       label: 'GitHub',
-      value: 'github.com/devi-p-dev',
-      href: 'https://github.com/devi-p-dev',
+      value: 'github.com/saraswathidevi17032006-ux',
+      href: 'https://github.com/saraswathidevi17032006-ux',
     },
   ];
 
@@ -107,7 +107,7 @@ const Contact = () => {
             {/* Social Buttons */}
             <div className="contact-social-row">
               <a
-                href="https://github.com/devi-p-dev"
+                href="https://github.com/saraswathidevi17032006-ux"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="contact-social-btn"
